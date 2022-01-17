@@ -1,0 +1,10 @@
+var x=2;
+console.log(typeof x);
+var a= "kowsi";
+console.log(typeof a);
+var yes=true;
+console.log(typeof yes);
+var hii;
+console.log(typeof hii);
+var f=null;
+console.log(typeof f);
